@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>{count} unnati khare for a change ready to deploy</h1>
+      <h1>{count} unnati khar</h1>
       
 
       
